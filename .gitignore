@@ -1,2 +1,9 @@
 # Atlogex GitIgnore
 /.idea/
+/image/cache/
+/system/storage/cache/*
+/config.php
+/admin/config.php
+/system/storage/download/*
+/system/storage/upload/*
+/install-old/
